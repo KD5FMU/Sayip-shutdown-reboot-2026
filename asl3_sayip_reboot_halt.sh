@@ -33,7 +33,7 @@ if ! apt-get install -y libnet-ifconfig-wrapper-perl; then
 fi
 
 CONF_FILE="/etc/asterisk/rpt.conf"
-BASE_URL="https://raw.githubusercontent.com/hardenedpenguin/sayip-reboot-halt-saypublicip/main"
+BASE_URL="https://raw.githubusercontent.com/KD5FMU/Sayip-shutdown-reboot-2026/main"
 TARGET_DIR="/etc/asterisk/local"
 FILES_TO_DOWNLOAD="halt.pl reboot.pl sayip.pl saypublicip.pl speaktext.pl halt.ulaw reboot.ulaw ip-address.ulaw public-ip-address.ulaw"
 
