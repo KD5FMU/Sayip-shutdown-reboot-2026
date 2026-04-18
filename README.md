@@ -1,6 +1,8 @@
-# Sayip-Shutdown-Reboot-2026
+# SayIP-Shutdown-Reboot-2026
 ## New Sayip Shutdown Reboot script for 2026 ##
 ### Compatable with Debian Bookworn and Trixie ###
+
+This a new and improved SayIP Script for Debain Bookworm and Debian Trixie for AllStarLink Version 3. This script set will tell you your local IP upon reboot 
 
 Use this installer file
 ```
