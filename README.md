@@ -9,7 +9,7 @@ This a new and improved SayIP Script for Debain Bookworm and Debian Trixie for A
 *B1 = Shutdown System (a.k.a. Halt)
 *B3 = Reboot System
 
-⚠️⚠️⚠️ Be aware that if you shutdown your system you will have to physically power cycle the power line to it to get it to start again.⚠️⚠️⚠️
+⚠️⚠️⚠️ Be aware that if your node is a Raspberry Pi then when you shutdown your system you will have to physically power cycle the power line to it to get it to start again.⚠️⚠️⚠️
 
 Use this installer file
 ```
