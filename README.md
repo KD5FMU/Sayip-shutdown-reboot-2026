@@ -4,10 +4,10 @@
 
 This a new and improved SayIP Script for Debain Bookworm and Debian Trixie for AllStarLink Version 3. This script set will tell you your local IP upon reboot. It will also tell you your Public IP address upon demand, as well as give you the ability to Reboot or Shutdown (a.k.a. Halt) your ASL3 Node. 
 
-*A1 = Say Local IP Address
-*A3 = Say Public IP Address
-*B1 = Shutdown System (a.k.a. Halt)
-*B3 = Reboot System
+*A1 = Say Local IP Address<br>
+*A3 = Say Public IP Address<br>
+*B1 = Shutdown System (a.k.a. Halt)<br>
+*B3 = Reboot System<br>
 
 ⚠️⚠️⚠️ Be aware that if your node is a Raspberry Pi then when you shutdown your system you will have to physically power cycle the power line to it to get it to start again.⚠️⚠️⚠️
 
