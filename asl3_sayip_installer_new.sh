@@ -229,5 +229,5 @@ echo
 echo "Then key:"
 echo "  *A1"
 echo
-echo "If it speaks your local IP address, you're good to go."
+echo "Thank You for your support!"
 echo "Ham On Y'all!"
