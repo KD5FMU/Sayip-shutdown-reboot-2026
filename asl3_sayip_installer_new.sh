@@ -228,7 +228,7 @@ echo "Recommended test:"
 echo "  sudo asterisk -rvvv"
 echo
 echo "Then key:"
-echo "  *A1"
+echo "  rpt fun YOUR_NODE_NUMBER *A1"
 echo
 echo "Thank You for your support!"
 echo "Ham On Y'all!"
