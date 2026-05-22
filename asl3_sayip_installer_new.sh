@@ -3,6 +3,7 @@
 # ASL3 SayIP / Public IP / Reboot / Halt Installer
 # Corrected for Debian / AllStarLink 3
 # Repository: https://github.com/KD5FMU/Sayip-shutdown-reboot-2026
+# Derived from the minds of many who are all dedicated to the AllStarLink Vision
 
 set -u
 
